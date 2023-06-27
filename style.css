@@ -8,6 +8,7 @@
     overflow-y: hidden;
     height: 2000px;
     width: 100%;
+    overflow: hidden;
 }
 header{
     background-color: rgb(76, 84, 117);
